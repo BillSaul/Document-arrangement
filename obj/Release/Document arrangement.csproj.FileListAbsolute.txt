@@ -1,0 +1,9 @@
+D:\CompilingRoom\C#\Document arrangement\bin\Release\Document arrangement.exe.config
+D:\CompilingRoom\C#\Document arrangement\bin\Release\Document arrangement.exe
+D:\CompilingRoom\C#\Document arrangement\bin\Release\Document arrangement.pdb
+D:\CompilingRoom\C#\Document arrangement\obj\Release\Document_arrangement.Form1.resources
+D:\CompilingRoom\C#\Document arrangement\obj\Release\Document_arrangement.Properties.Resources.resources
+D:\CompilingRoom\C#\Document arrangement\obj\Release\Document arrangement.csproj.GenerateResource.cache
+D:\CompilingRoom\C#\Document arrangement\obj\Release\Document arrangement.csproj.CoreCompileInputs.cache
+D:\CompilingRoom\C#\Document arrangement\obj\Release\Document arrangement.exe
+D:\CompilingRoom\C#\Document arrangement\obj\Release\Document arrangement.pdb

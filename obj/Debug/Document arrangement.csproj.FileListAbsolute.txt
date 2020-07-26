@@ -1,0 +1,10 @@
+D:\CompilingRoom\C#\Document arrangement\bin\Debug\Document arrangement.exe.config
+D:\CompilingRoom\C#\Document arrangement\bin\Debug\Document arrangement.exe
+D:\CompilingRoom\C#\Document arrangement\bin\Debug\Document arrangement.pdb
+D:\CompilingRoom\C#\Document arrangement\obj\Debug\Document arrangement.csprojAssemblyReference.cache
+D:\CompilingRoom\C#\Document arrangement\obj\Debug\Document_arrangement.Form1.resources
+D:\CompilingRoom\C#\Document arrangement\obj\Debug\Document_arrangement.Properties.Resources.resources
+D:\CompilingRoom\C#\Document arrangement\obj\Debug\Document arrangement.csproj.GenerateResource.cache
+D:\CompilingRoom\C#\Document arrangement\obj\Debug\Document arrangement.csproj.CoreCompileInputs.cache
+D:\CompilingRoom\C#\Document arrangement\obj\Debug\Document arrangement.exe
+D:\CompilingRoom\C#\Document arrangement\obj\Debug\Document arrangement.pdb
